@@ -1,0 +1,31 @@
+#!/bin/bash
+
+berryc save_monitor 0 0
+berryc save_monitor 1 1
+berryc save_monitor 0 2
+berryc save_monitor 1 3
+berryc save_monitor 0 4
+berryc save_monitor 1 5
+
+# Set decoration geometry
+berryc border_width 0
+berryc inner_border_width 2
+berryc title_height 20 
+berryc top_gap 0 
+
+# Set decoration colors
+berryc inner_focus_color 2d3036
+berryc inner_unfocus_color 2d3036 
+#berryc inner_focus_color   FFCB6B
+#berryc inner_unfocus_color 565679
+berryc text_focus_color d3dae3
+berryc text_unfocus_color 7f8388
+
+# Other options
+berryc smart_place "false"
+berryc draw_text   "true"
+berryc edge_lock   "true"
+berryc set_font Ubuntu-9
+
+# Keybindgs
+sxhkd -c ~/.config/berry/keybindings &

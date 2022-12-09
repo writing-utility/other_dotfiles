@@ -1,0 +1,503 @@
+v dmenu_fm 
+./dmenu_fm
+v dmenu_fm
+./dmenu_fm
+v dmenu_fm
+./dmenu_fm
+./dmenu_fm
+v dmenu_fm
+./dmenu_fm
+pac -Ss spotify client
+yay -Ss spotify client
+$a=am.js
+$a=am.js
+a=am.js
+awk /am/ $a
+echo "$a" | cut -f 1 -d '.'
+echo "$a" | cut -f 1  '.'
+echo "$a" | cut -f 1 -c '.'
+echo "$a" | cut -f 1 -d '.'
+echo "$a" | cut  1 -d '.'
+echo "$a" | cut -f 1 -d '.'
+echo "$a" | cut -f 2 -d '.'
+echo "am.png" | cut -f 2 2 -d '.'
+echo "am.png" | cut -f 2 -d '.'
+echo "am.png" | cut -f 2 -d '.'
+touch :a
+ls
+$b="-l 1"
+b="-l 1"
+dmenu_run $b
+:q
+cd .scripts/dmenu_scripts/
+ls
+./dmenu_fm 
+v fm.pt
+v fm.py
+v fm.py
+hostname
+hostname -l
+hostname -l | awk "{print $1}"
+ip a
+killall virtualbox
+htop
+ls
+cat git-concepts-interpretations-token 
+mkdir tmp-live-server
+mv git-concepts-interpretations-token tmp-live-server/
+ls
+cd tmp-live-server/
+v run
+chmod +x run
+./run 
+v run
+./run 
+python3 -m http.server
+ifconfig
+ip addr
+v run 
+run
+./run
+v run 
+./run
+v run
+./run
+php -S localhost:8000
+ls
+v run 
+mv run .run
+./.run 
+v .run
+$ php -S localhost:8000 -t .
+php -S localhost:8000 -t .
+python3 -m http.server
+push ~
+pushd ~
+cd repos/some_fun_with_vuejs/
+ls
+cd vue-cli/
+npm run serve
+php -S http://192.168.1.103:8000/
+php -S 2.168.1.103:8000/
+php -S 192.168.1.103:8000/
+php -S 192.168.1.103:8000
+pushd
+ls
+v index.php
+php -S 192.168.1.103:8000 index.php 
+v index.php
+php -S 192.168.1.103:8000 index.php 
+v index.php 
+php -S 192.168.1.103:8000 index.php 
+php -S 192.168.1.103:8000 index.php 
+v index.php 
+v index.php 
+php -S 192.168.1.103:8000 index.php 
+v index.php 
+php -S 192.168.1.103:8000 index.php 
+v index.php 
+php -S 192.168.1.103:8000 index.php 
+npm install -g http-server
+sudo npm install -g http-server
+http-server 
+v .run 
+ls
+rm index.php 
+ls
+ls
+./run
+ls
+./.run 
+ls
+cd ..
+ls
+http-server 8000
+http-server
+mv tmp-live-server/ tmp_http-server_dir
+ls
+virtualbox -h
+neofetch 
+vboxmanage startvm voidlinux
+neofetch 
+neofetch 
+cmatrix 
+date
+v .config/alacritty/alacritty.yml 
+ls
+neofetch 
+ls
+ls
+cd repos/
+v a.html
+v e.html
+v amine.py
+v e.html
+neofetch 
+./.wm_autostart 
+ls
+pfetch 
+ls
+cd .packages/
+ls
+ls
+cd sxiv/
+ls
+ls icon/
+cd ..
+ls
+cd ..
+ls
+cmatrix 
+cd dow
+cd downloads/
+cmatrix 
+cd ..
+cd .packages/
+cd dwm/
+ls
+vim config.d
+vim config.h
+make
+sudo make install
+ls
+jdfgdfg
+ljfdklsjfdjf
+startx
+ls
+ ls
+ls
+cd downloads/
+ls
+neofetch 
+ls
+cd ~
+ls
+poweroff
+xrandr -q
+v .scripts/screen_resolution 
+./.scripts/screen_resolution 
+ls
+ls
+neofetch 
+v .config/alacritty/alacritty.yml 
+ls
+cd .packages/
+ls
+cd dwm
+ls
+v config.h
+v Makefile 
+v config.ml
+v config.mk
+v config.h
+make
+sudo make install
+ls
+v config.h
+cd ..
+cd dmenu/
+v config.h
+make
+sudo make install
+v config.h
+v config.h
+make
+sudo make install
+ls
+patch -i dmenu-xyw-5.0.diff 
+v dmenu.c.rej 
+code dmenu.c.rej 
+ls
+v ls
+v dmenu.c
+cd ..
+ls
+v dwm/
+v dwm/
+cd dwm/
+ls
+cd patches/
+ls
+cd ..
+ls
+mv dwm-azerty-6.2.diff patches/
+cd ..
+git clone https://git.suckless.org/dwm
+git clone https://git.suckless.org/dwm a
+ls
+mv dwm/ e
+mv a dwm
+ls
+cd dwm/
+make
+sudo make install
+ls
+mv ../e/patches/ .
+ls
+cd patches/
+ls
+cp dwm-restartsig-20180523-6.2.diff ..
+cd ..
+patch -i dwm-restartsig-20180523-6.2.diff 
+rm dwm-restartsig-20180523-6.2.diff 
+ls
+cd patches/
+ls
+cd ...
+cd ..
+ls
+v config.h
+cd patches/
+cp dwm-azerty-6.2.diff ..
+cd ..
+patch -i dwm-azerty-6.2.diff 
+ls patches/
+rm dwm-azerty-6.2.diff 
+ls
+v config.g
+v config.h
+cd patches/
+ls
+v dwm-azerty-6.2.diff 
+cd ..
+make
+ls
+v config.h
+cp config.def.h a
+ls
+v a 
+v config.h
+v a
+rm config.h
+make
+v config.h
+make
+sudo make install
+v config.h
+make
+sudo make install
+neofetch 
+cd .packages/
+ls
+cd dmenu/
+ls
+v dmenu.c
+make
+sudo make install
+dmenu_run -x 100
+dmenu_run -x 200
+dmenu_run -x 300
+dmenu_run -x 350
+dmenu_run -x 310
+dmenu_run -x 305
+dmenu_run -x 306
+dmenu_run -x 307
+dmenu_run -x 308
+dmenu_run -x 309
+dmenu_run -x 308
+dmenu_run -x 308 -z
+dmenu_run -x 308 -z 10
+dmenu_run -x 308 -z 100
+wmic desktopmonitor get screenheight, screenwidth
+wmic desktopmonitor get screenheight, screenwidth
+
+xdpyinfo | grep dimensions
+xdpyinfo | grep dimensions
+dmenu_run -x $(1360 - 308)
+dmenu_run -x "$(1360 - 308)"
+dmenu_run -x "$(calc 1360 - 308)"
+echo 10-2
+echo 10 - 2
+$((2 + 3))
+echo $((2 + 3))
+dmenu_run -x "$(( 1360 - 308))"
+dmenu_run -x "$(( 1360 - 100))"
+~/.scripts/status_bar/status_bar 
+dmenu_run -x "$(( 1360 - 100))"
+dmenu_run -x "$(( 1360 - 150))"
+dmenu_run -x "$(( 1360 - 140))"
+dmenu_run -x "$(( 1360 - 130))"
+dmenu_run -x "$(( 1360 - 120))"
+dmenu_run -x "$(( 1360 - 120))"
+dmenu_run -x "$(( 1360 - 120))"
+dmenu_run -x "$(( 1360 - 125))"
+dmenu_run -x "$(( 1360 - 123))"
+dmenu_run -x "$(( 1360 - 121))"
+dmenu_run -x "$(( 1360 - 121))"
+dmenu_run -x "$(( 1360 - 121))"
+dmenu_run -x "$(( 1360 - 122))"
+dmenu_run -x "$(( 1360 - 122))"
+dmenu_run -x "$(( 1360 - 122))" -z 122
+dmenu_run -x "$(( 1360 - 122))" -z 122
+dmenu_run -x "$(( 1360 - 122))" -z 122
+dmenu_run -x "$(( 1360 - 122))" -z 122 -p ">"
+dmenu_run -x "$(( 1360 - 122))" -z 122 -p "hellloo"
+dmenu_run -x "$(( 1360 - 122))" -z 122 -p "Search"
+dmenu_run -x "$(( 1360 - 122))" -z 122 -p " Search "
+dmenu_run -x "$(( 1360 - 122 + 50))" -z 172 -p " Search "
+dmenu_run -x "$(( 1360 - 122 - 50))" -z 172 -p " Search "
+dmenu_run -x "$(( 1360 - 122))" -z 122 -p "hellloo"
+dmenu_run -x "$(( 1360 - 122))" -z 122
+cd ..
+ls
+cd dwm/
+ls
+cd ..c
+cd ..
+cd e
+vim config.h
+xrandr
+sd
+fsdfdfdsfgdfg
+hello 
+lsd
+ls
+exit
+ls
+cd .packages/dwm/
+ls
+rm a
+ls
+v config.h
+ls
+v config.h
+v config.def.h
+cd patches/
+ls
+cp dwm-statuspadding-6.3.diff ..
+ls
+cd ..
+patch -i dwm-statuspadding-6.3.diff 
+rm dwm-statuspadding-6.3.diff 
+ls
+v config.h
+v config.def.h
+make
+make
+v config.def.h
+cp config.def.h config.h
+make
+sudo make install
+v config.def.h
+v .packages/dwm/config.h
+v .packages/e/config.h
+ls
+dmenu-run -h
+dmenu-run
+dmenu_run -h
+tty
+tty
+zsh
+ls
+cd .packages/dwm/
+ls
+v dwm.c
+v dwm.c
+ls
+v config.def.h
+ls
+cd ~
+ls
+cd .them
+cd .theme
+ls
+mv ~/.themes .
+cp .themes/ ..
+mv .themes/ ..
+mv ~/.themes/Hack-v3.003-ttf.zip .
+ls
+unzip Hack-v3.003-ttf.zip 
+ls
+cd ttf/
+ls
+cp . /usr/share/fonts/
+cp -r . /usr/share/fonts/
+sudo cp -r . /usr/share/fonts/
+ls /usr/share/fonts/
+cat    /etc/fonts/fonts.conf
+cat    /etc/fonts/conf.d
+cat /etc/fonts/conf.d
+ls
+cd ..
+ls
+fc-cache -f -v
+fc-list | grep "Hack"
+cd ..
+cd .packages/dmenu/config.def.h
+vim .packages/dmenu/config.h
+cd .packages/dmenu/
+make
+sudo make install
+dmenu_run 
+cd ..
+cd dwm/
+ls
+v config.def.h
+make
+sudo make install
+cp config.def.h config.h
+make
+sudo make install
+v config.def.h
+cp config.def.h
+cp config.def.h config.h
+make
+sudo make install
+v config.def.h
+cp config.def.h config.h
+make
+
+v config.def.h
+cp config.def.h config.h
+make
+sudo make install
+v config.def.h
+cp config.def.h config.h
+zsh
+make
+sudo make install
+v config.def.h
+v config.def.h
+ls
+pac -S zsh
+zsh
+zsh
+zsh
+cd ~
+zsh
+zsh
+zsh
+zsh
+zsh
+LS
+Ls
+LS
+ZSH
+zsh
+zsh
+ls
+zsh
+zsh
+ls
+v .config/alacritty/alacritty.yml 
+v .config/alacritty/alacritty.yml 
+ls
+==> 
+v .config/alacritty/alacritty.yml 
+v .packages/e/config.def.h
+v .packages/e/config.h
+v .packages/Ãe/config.h
+v .packages/Ãe/config.h
+v .packages/e/config.
+v .packages/e/config.h 
+ls
+./dmenu_pwr 
+exit
+vi 
+exit
+exit
+ls
+exit
+++
+g
+exit
